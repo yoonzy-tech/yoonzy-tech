@@ -27,7 +27,7 @@ Currently based in Taiwan 🇹🇼 — working toward opportunities in **Canada*
 
 ## 📬 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/rubychu-yunsyuan)
-- 📖 [Blog / Portfolio](https://yoonzy-blog.vercel.app/))
+- 📖 [Blog / Portfolio](https://yoonzy-blog.vercel.app/)
 - ✉️ Email: dev.rubyc@gmail.com
 
 ---
