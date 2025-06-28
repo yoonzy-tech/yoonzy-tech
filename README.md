@@ -2,7 +2,7 @@
 
 🎯 **Mobile Developer | Flutter Expert | UX Advocate**
 
-I'm a cross-platform mobile developer passionate about building user-centered experiences. I specialize in **Flutter**, **iOS**, **Android**, and **WebRTC**, and I thrive at the intersection of **technical execution**, **user experience**, and **collaborative communication**.
+I'm a cross-platform mobile developer passionate about building user-centered experiences. I specialize in **Flutter**, **iOS**, and **Android**, and I focus on writing clean code, designing great user experiences, and working closely with teams to bring ideas to life.
 
 ## 👩‍💻 What I Do
 - 🌐 Build video conferencing apps using Flutter + WebRTC
@@ -14,7 +14,7 @@ I'm a cross-platform mobile developer passionate about building user-centered ex
 - Flutter architecture: Riverpod, GoRouter, SQLite
 - WebRTC & SIP-UA system structure
 - Design tools: Figma, Framer, AI-assisted UX workflows
-- Writing [technical blogs](#) weekly to document what I learn
+- Writing [technical blogs](https://yoonzy-blog.vercel.app/) weekly to document what I learn
 
 ## 🧰 Tech Stack
 - **Languages**: Dart, Swift, Kotlin, JavaScript
@@ -27,7 +27,7 @@ Currently based in Taiwan 🇹🇼 — working toward opportunities in **Canada*
 
 ## 📬 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/rubychu-yunsyuan)
-- 📖 [Blog / Portfolio](https://your-blog.com)
+- 📖 [Blog / Portfolio](https://yoonzy-blog.vercel.app/))
 - ✉️ Email: dev.rubyc@gmail.com
 
 ---
