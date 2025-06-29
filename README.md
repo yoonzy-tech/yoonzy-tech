@@ -26,8 +26,9 @@ I'm a cross-platform mobile developer passionate about building user-centered ex
 Currently based in Taiwan 🇹🇼 — working toward opportunities in **Canada** 🇨🇦,  **Korea** 🇰🇷 or **remote-first teams**. I'm actively building a portfolio that showcases not just my coding skills, but my ability to solve real problems through great user experiences.
 
 ## 📬 Get in Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/rubychu-yunsyuan)
-- 📖 [Blog / Portfolio](https://yoonzy-blog.vercel.app/)
+
+- 💼 LinkedIn: [Ruby Chu](https://linkedin.com/in/rubychu-yunsyuan)
+- 📖 Blog/Portfolio: [Ruby Chu](https://yoonzy-blog.vercel.app/)
 - ✉️ Email: dev.rubyc@gmail.com
 
 ---
